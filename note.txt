@@ -1,0 +1,2 @@
+command to installexternal dependencies
+- flutter pub add fluentui_icons && flutter pub get
