@@ -1,2 +1,9 @@
 command to installexternal dependencies
 - flutter pub add fluentui_icons && flutter pub get
+
+
+
+
+
+======version control=====
+- 7/17/2024: Create new branch 'home-screen', will implement and push all UI features for home screen on this branch.
